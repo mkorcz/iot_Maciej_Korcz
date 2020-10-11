@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "duarfbOxbScGxNV52xMXbz2Y5hRZENwoXqAd/OqxpYlHRVnI8knHwldHcWrK1wtMgoge0hULxe8C/qEEJWJQTQ==",
+  "success": true,
+  "projectFilePath": "/Users/maciejkorcz/iot_azure/iot_Maciej_Korcz/lab1/lab1.iOS/lab1.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/maciejkorcz/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/maciejkorcz/.nuget/packages/xamarin.forms/4.6.0.1141/xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}
