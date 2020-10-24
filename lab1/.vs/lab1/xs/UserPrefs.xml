@@ -1,6 +1,21 @@
 ﻿<Properties StartupConfiguration="{5FD50C3F-CE19-4299-88DB-7B5A829B878A}|Default">
-  <MonoDevelop.Ide.ItemProperties.lab1.iOS FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.lab1 FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="lab1" expanded="True" selected="True">
+            <Node name="lab1" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.lab1.iOS FirstBuild="True" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget." />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.lab1.Android FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.lab1.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
 </Properties>

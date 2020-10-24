@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{9B24D071-58EC-4A80-97B6-01CA269B45A6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab1_Korcz.Rest/Controllers/PeopleController.cs">
+    <Files>
+      <File FileName="Lab1_Korcz.Rest/Controllers/PeopleController.cs" Line="55" Column="1" />
+      <File FileName="Lab1_Korcz.Rest/Properties/launchSettings.json" />
+      <File FileName="Lab1_Korcz.Rest/appsettings.Development.json" />
+      <File FileName="Lab1_Korcz.Rest/Program.cs" />
+      <File FileName="Lab1_Korcz.Rest/Models/Person.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lab1_Korcz" expanded="True">
+            <Node name="Lab1_Korcz.Rest" expanded="True">
+              <Node name="Context" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="PeopleController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Lab1__Korcz.Rest PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
